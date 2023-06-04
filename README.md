@@ -6,7 +6,7 @@ In this repository, we share all the collected bot activities data for all Wikip
 
 Saied Alshahrani, Norah Alshahrani, and Jeanna Matthews. 2023. DEPTH+: An Enhanced Depth Metric for Wikipedia Corpora Quality. In *Proceedings of the Third Workshop on Trustworthy Natural Language Processing (TrustNLP)*, pages ###–###, Toronto, Canada. Association for Computational Linguistics.
 
-## Citation BibTeX:
+## BibTeX Citation:
 ```bash
 Coming Soon!
 ```
