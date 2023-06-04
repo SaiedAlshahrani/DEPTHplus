@@ -1,6 +1,6 @@
 # DEPTH+: An Enhanced Depth Metric for Wikipedia Corpora Quality 
 
-In this repository, we share the collected bot activities data for all Wikipedia editions, implementations of all Depth Metrics (depth and DEPTH+), and lastly, the produced results and figures. We also shared a few Jupyter Notebooks illustrating the metrics implementations and data collection procedures with the research community.
+In this repository, we share all the collected bot activities data for all Wikipedia editions, implementations of all Depth Metrics (depth and DEPTH+), and lastly, all the produced results and figures. We specifically shared a few Jupyter Notebooks illustrating the metrics implementations and data collection procedures with the research community.
 
 ## ACL Citation:
 
