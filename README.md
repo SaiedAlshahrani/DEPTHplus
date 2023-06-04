@@ -8,5 +8,5 @@ Saied Alshahrani, Norah Alshahrani, and Jeanna Matthews. 2023. DEPTH+: An Enhanc
 
 ## Citation BibTeX:
 ```bash
-Coming soon!
+Coming Soon!
 ```
