@@ -10,9 +10,7 @@ Saied Alshahrani, Norah Alshahrani, and Jeanna Matthews. 2023. [DEPTH+: An Enhan
 ```
 @inproceedings{alshahrani-etal-2023-depth,
     title = "{DEPTH}+: An Enhanced Depth Metric for {W}ikipedia Corpora Quality",
-    author = "Alshahrani, Saied  and
-      Alshahrani, Norah  and
-      Matthews, Jeanna",
+    author = "Alshahrani, Saied  and Alshahrani, Norah  and Matthews, Jeanna",
     booktitle = "Proceedings of the 3rd Workshop on Trustworthy Natural Language Processing (TrustNLP 2023)",
     month = jul,
     year = "2023",
