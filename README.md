@@ -4,7 +4,7 @@ In this repository, we share all the collected bot activities data for all Wikip
 
 ## ACL Citation:
 
-Saied Alshahrani, Norah Alshahrani, and Jeanna Matthews. 2023. [DEPTH+: An Enhanced Depth Metric for Wikipedia Corpora Quality](https://aclanthology.org/2023.trustnlp-1.16.pdf). In *Proceedings of the [Third Workshop on Trustworthy Natural Language Processing (TrustNLP 2023)](https://trustnlpworkshop.github.io/)*, pages 175–189, Toronto, Canada. Association for Computational Linguistics.
+Saied Alshahrani, Norah Alshahrani, and Jeanna Matthews. 2023. [DEPTH+: An Enhanced Depth Metric for Wikipedia Corpora Quality](https://aclanthology.org/2023.trustnlp-1.16/). In *Proceedings of the [Third Workshop on Trustworthy Natural Language Processing (TrustNLP 2023)](https://trustnlpworkshop.github.io/)*, pages 175–189, Toronto, Canada. Association for Computational Linguistics.
 
 
 ## BibTeX Citation:
@@ -13,7 +13,7 @@ Saied Alshahrani, Norah Alshahrani, and Jeanna Matthews. 2023. [DEPTH+: An Enhan
     title = "{DEPTH}+: An Enhanced Depth Metric for {W}ikipedia Corpora Quality",
     author = "Alshahrani, Saied  and Alshahrani, Norah  and Matthews, Jeanna",
     booktitle = "Proceedings of the 3rd Workshop on Trustworthy Natural Language Processing (TrustNLP 2023)",
-    month = jul,
+    month = July,
     year = "2023",
     address = "Toronto, Canada",
     publisher = "Association for Computational Linguistics",
